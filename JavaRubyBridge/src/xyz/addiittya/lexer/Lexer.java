@@ -96,6 +96,8 @@ public class Lexer {
     
     public  Lexer()
     {   
+    	// TODO implementing a UI
+    	
         lex();        
     }
 }
